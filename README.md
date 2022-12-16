@@ -8,13 +8,6 @@ Be sure to uncheck the option **Copy the `main` branch only**. This ensures that
 
 <img src="https://user-images.githubusercontent.com/7218230/191072997-94fdc9cc-2be2-4b44-900f-d4507c6df8a6.png" width="400">  
 
-### 2. Enable GitHub Actions workflows for your fork
-
-Select **Actions**, then select **I understand my workflows, go ahead and enable them**.   
-
-<img src="https://user-images.githubusercontent.com/7218230/191074124-8ace8e9f-4970-46e5-9418-0f18d30bd08c.png" width="400">  
-
-<img alt="uffizzi-bot" src="https://user-images.githubusercontent.com/7218230/191825295-50422b35-23ac-47f6-8a22-c67f95c89d8c.png" width="400">
 
 ## What to expect  
 
