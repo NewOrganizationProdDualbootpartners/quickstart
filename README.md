@@ -79,7 +79,7 @@ You can follow this [step-by-step guide](https://docs.uffizzi.com/set-up-uffizzi
 <p>If your application requires test data, you will need to seed your database when your Preview Environment is created. Here are two methods for seeding databases:</p>
 <ol>
   <li>(Recommended) Have your application perform a data migration on start-up</li>
-  <li>Bundle test data into the database image itself. This method is only recommended for small datasets (< 50MB), as it will increase the size of your image and deployment times.</li>
+  <li>Bundle test data into the database image itself. This method is only recommended for small datasets (< 50MB), as it will increase the size of your image and deployment times..</li>
 </ol>
 </details>
 
